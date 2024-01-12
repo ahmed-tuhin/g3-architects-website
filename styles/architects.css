@@ -21,6 +21,12 @@ font-weight: 600;
 cursor: pointer;
 border: 0px;
 }
+.section-title{
+
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--Dark-01, #131313);
+    }
 
 /* header styles */
 header{
@@ -32,12 +38,7 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
-.nave-title{
 
-font-size: 3rem;
-font-weight: 700;
-color: var(--Dark-01, #131313);
-}
 nav > ul {
     display: flex;
 }
