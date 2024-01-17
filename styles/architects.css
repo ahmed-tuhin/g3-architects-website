@@ -197,16 +197,10 @@ text-align: center;
 
 }
 /* footer styles */
-.footer{
-    width: 1440px;
-height: 100px;text-align: center;
-margin: 0px auto;
-border-radius: 8px;
-background: #FFF4E7;
-/* padding: 40px 400px; */
 
 
-}
+
+
 
 /*responsive media query */
 
